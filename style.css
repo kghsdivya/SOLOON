@@ -368,9 +368,9 @@ hr{
     margin: 10px 0;
 }
 .footer-row p{
-    line-height: 35px;
+    line-height: 35px
 }
-.footer-left .fe,.footer-right .fa{
+.footer-left .fa,.footer-right .fa{
     font-size: 20px;
     color: #009688;
     margin: 10px;
